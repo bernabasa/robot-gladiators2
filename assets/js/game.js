@@ -1,3 +1,7 @@
+<<<<<<< HEAD
+||||||| b6b7205
+window.alert("This is an alert! JavaScript running!");
+=======
 var playerName = window.prompt("What is your robot's name?");
 var playerHealth = 100;
 var playerAttack = 10;
@@ -42,3 +46,4 @@ var fight = function () {
     
 };
 fight();
+>>>>>>> feature/initial-game
